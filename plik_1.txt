@@ -11,3 +11,6 @@ Grażyna
 Karolina
 Magda
 Halina  
+adadas
+
+git rebase --autosquash --interactive b363521^
